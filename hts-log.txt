@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Sep 2018 08:25:26 at http://demo.mutationmedia.net/CONFIDENCEVCARD/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://demo.mutationmedia.net/CONFIDENCEVCARD/#* +*http://demo.mutationmedia.net/CONFIDENCEVCARD/#*
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Sep 2018 08:25:26 at http://profile/CONFIDENCEVCARD/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://demo.mutationmedia.net/CONFIDENCEVCARD/#* +*http://demo.mutationmedia.net/CONFIDENCEVCARD/#*
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.mutationmedia.net/CONFIDENCEVCARD/# -O1 "C:\My Web Sites\myportfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://demo.mutationmedia.net/CONFIDENCEVCARD/#* +*http://demo.mutationmedia.net/CONFIDENCEVCARD/#* )
 
 Information, Warnings and Errors reported for this mirror:
